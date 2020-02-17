@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Container\\": "container/",
+      "Etl\\": "etl/",
+      "Workflow\\": "workflow/"
+    }
+  }
+}
