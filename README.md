@@ -18,6 +18,8 @@ Model validation for writing in transformer if model is supplied
 
 Unit tests
 
+Logger, console logger
+
 CSV/TSV/PSV parsing code at DelimitedFileStorage 
 
 Refactor run.php, create WF runner with OOP, add console parameters support and progress reporting where possible
